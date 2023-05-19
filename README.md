@@ -1,6 +1,19 @@
-# ds-project-template
+# EDA Project with Data of the House Market in King County in 2014 and 2015
 
-Template for creating ds simple projects
+This Notebook is written in an iterative way. Each section (excluding the import data section) was worked on a couple of times.
+It's sectioned into following parts:
+<br>
+* Importing the data
+* Checking the data
+* Hypotheses
+* Cleaning the data
+    * Includes creating a new column (price_per_sqft)
+    * Making some plots to determine what is relevant and what not
+* Checking hypotheses
+    * Each hypothesis gets its own section
+    * Each hypothesis gets its own conclusion
+* Summary
+
 
 ## Requirements
 
