@@ -12,7 +12,7 @@ It's sectioned into following parts:
 * Checking hypotheses
     * Each hypothesis gets its own section
     * Each hypothesis gets its own conclusion
-* Summary
+* Findings
 
 
 ## Requirements
